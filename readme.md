@@ -2,4 +2,3 @@
 
 kohomada oyalata 
 
-##raththran yaluwane
